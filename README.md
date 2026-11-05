@@ -1,7 +1,7 @@
-# Behavior-Adaptive Steganography – Secure Image Messaging
+# AI Based Behavior-Adaptive Steganography – Secure Image Messaging
 
 ## Overview
-Behavior-Adaptive Steganography is a secure image-based data hiding system that embeds encrypted messages inside images using adaptive pixel selection techniques. The system dynamically adjusts embedding behavior based on image characteristics to reduce detectability and improve resistance against steganalysis methods.
+AI Based Behavior-Adaptive Steganography is a secure image-based data hiding system that embeds encrypted messages inside images using adaptive pixel selection techniques. The system dynamically adjusts embedding behavior based on image characteristics to reduce detectability and improve resistance against steganalysis methods.
 
 ---
 
